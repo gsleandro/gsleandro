@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gsleandro/gsleandro/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
