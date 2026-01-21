@@ -1,4 +1,6 @@
-<h2 align="left">Olá sou Carleandro, Bem vindo ao meu perfil 👋</h2>
+<h2 align="left">Profissional de TI com experiência em suporte técnico e operações.
+Estudando e praticando Cloud Computing com foco em AWS e Linux.
+</h2>
 
 ###
 
