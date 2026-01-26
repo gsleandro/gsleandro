@@ -36,7 +36,9 @@ Profissional de TI com atuação em suporte e infraestrutura, atualmente em dese
   ###  🎓 Metodologias & Frameworks
   
 **AWS Well-Architected Framework - Pilares de excelencia**
+
 **ITIL - Gerenciamento de serviços de TI**
+
 **Agile/Scrum - Metodologias ageis**
 
 ---
@@ -50,6 +52,7 @@ Profissional de TI com atuação em suporte e infraestrutura, atualmente em dese
 ###
 
 📈 Objetivo Profissional
+
 **🔍 Buscando um papel como:**
 
 **Cloud Analyst Junior**
@@ -62,11 +65,17 @@ Profissional de TI com atuação em suporte e infraestrutura, atualmente em dese
 
 
 ### 🤝 Vamos nos conectar?
+
 **Estou sempre aberto para:**
+
 **💬 Discutir Soluções em  cloud**
+
 **🔒 Compartilhar insights de seguranca**
+
 **🚀 Explorar oportunidades de carreira**
+
 **📚 Aprender e crescer com a comunidade**
+
 **Entre em contato:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carleandro-gomes-a00891203/)
