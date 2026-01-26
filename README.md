@@ -1,6 +1,6 @@
-<h2 align="left">Profissional de TI com experiência em suporte técnico e operações.
-Estudando e praticando Cloud Computing com foco em AWS e Linux.
+<h2 align="left"> Carleandro Gomes
 </h2>
+<h2> Cloud Computing e It support </h2>
 
 ###
 
