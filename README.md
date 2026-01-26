@@ -37,8 +37,8 @@ Profissional de TI com atuação em suporte e infraestrutura, atualmente em dese
 
 ### 🤝 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/carleandro-gomes-a00891203/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carleandroalvesjesus@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/carleandro-gomes-a00891203/
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carleandroalvesjesus@gmail.com
 
 📍 Localizado em: **São Paulo, SP** (Disponível para Remoto / Híbrido SP)
 
