@@ -33,10 +33,34 @@ Profissional de TI com atuação em suporte e infraestrutura, atualmente em dese
 - **Monitoramento inicial com CloudWatch** Observabilidade avançada com CloudWatch e Datadog para detecção precoce de anomalias.
 - **Uso de Linux em ambientes de nuvem**
 
+  ###  🎓 Metodologias & Frameworks
+AWS Well-Architected Framework - Pilares de excelencia
+ITIL - Gerenciamento de serviços de TI
+Agile/Scrum - Metodologias ageis
 ---
 
-### 🤝 Vamos nos conectar?
+###
+⚡ Disponibilidade
+Imediato para oportunidades
+---
 
+###
+
+📈 Objetivo Profissional
+🔍 Buscando um papel como:
+Cloud Analyst Junior 
+Cloud support Jr 
+Onde eu possa aplicar expertise em cloud infrastructure e security, contribuindo para ambientes cloud modernos e seguros.
+---
+
+
+### 🤝 Vamos nos conectar?
+Estou sempre aberto para:
+💬 Discutir Soluções em  cloud
+🔒 Compartilhar insights de seguranca
+🚀 Explorar oportunidades de carreira
+📚 Aprender e crescer com a comunidade
+Entre em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carleandro-gomes-a00891203/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carleandroalvesjesus@gmail.com)
