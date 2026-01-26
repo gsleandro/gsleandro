@@ -34,14 +34,17 @@ Profissional de TI com atuação em suporte e infraestrutura, atualmente em dese
 - **Uso de Linux em ambientes de nuvem**
 
   ###  🎓 Metodologias & Frameworks
+  
 AWS Well-Architected Framework - Pilares de excelencia
 ITIL - Gerenciamento de serviços de TI
 Agile/Scrum - Metodologias ageis
+
 ---
 
 ###
 ⚡ Disponibilidade
 Imediato para oportunidades
+
 ---
 
 ###
@@ -51,6 +54,7 @@ Imediato para oportunidades
 Cloud Analyst Junior 
 Cloud support Jr 
 Onde eu possa aplicar expertise em cloud infrastructure e security, contribuindo para ambientes cloud modernos e seguros.
+
 ---
 
 
