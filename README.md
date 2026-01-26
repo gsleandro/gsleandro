@@ -35,14 +35,12 @@ Profissional de TI com atuação em suporte e infraestrutura, atualmente em dese
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🤝 Vamos nos conectar?
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/carleandro-gomes-a00891203/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carleandroalvesjesus@gmail.com)
 
----
+📍 Localizado em: **São Paulo, SP** (Disponível para Remoto / Híbrido SP)
 
 
 
