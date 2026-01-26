@@ -1,6 +1,6 @@
 # Olá, sou Carleandro Gomes  👋
 
-### Cloud Computing & It Support | AWS Specialist
+### Cloud Computing & It Support 
 
 Profissional de TI com atuação em suporte e infraestrutura, atualmente em desenvolvimento técnico em Cloud Computing com foco em AWS. Estudo e aplico na prática serviços como EC2, IAM, S3 e CloudWatch, com interesse em ambientes de infraestrutura e operações.
 
