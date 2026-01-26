@@ -1,43 +1,48 @@
-<h2 align="left"> Carleandro Gomes
-</h2>
-<h2 align="left"> Cloud Computing e It support </h2>
+# Olá, sou Carleandro Gomes  👋
 
-###
+### Cloud Computing & It Support | AWS Specialist
 
-<br clear="both">
+Profissional de TI com atuação em suporte e infraestrutura, atualmente em desenvolvimento técnico em Cloud Computing com foco em AWS. Estudo e aplico na prática serviços como EC2, IAM, S3 e CloudWatch, com interesse em ambientes de infraestrutura e operações.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsleandro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gsleandro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🛠️ Stack Tecnológico
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-</div>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![OCI](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+| **Security & Ops** | ![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge) ![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white) |
+| **Infra as Code** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge) |
+| **Scripting** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
-###
+---
 
-<div align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 🏆 Certificados em destaque 
 
-###
+- ✅ **Cloud Fundamentals, Administration and Solution Architect FIAP** (Jan 2026)
+- ✅ **AWS-Aprenda e Domine a nuvemAmazon UDEMY** (Jan 2026)
+- ✅ **Introduction to Cybersecurity CISCO**
+- 🛡️ *Em progresso: AWS Certified Cloud Practitioner *
 
-<br clear="both">
+---
 
+### 🚀 O que eu entrego (Hands-on)
 
+- **Provisionamento e gerenciamento básico de EC2 (AWS)** 
+- **Armazenamento e backup com S3**
+- **Monitoramento inicial com CloudWatch** Observabilidade avançada com CloudWatch e Datadog para detecção precoce de anomalias.
+- **  Uso de Linux em ambientes de nuvem**
 
-###
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
 
 
