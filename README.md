@@ -1,6 +1,6 @@
 <h2 align="left"> Carleandro Gomes
 </h2>
-<h2> Cloud Computing e It support </h2>
+<h2 align="left"> Cloud Computing e It support </h2>
 
 ###
 
