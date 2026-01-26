@@ -50,10 +50,13 @@ Profissional de TI com atuação em suporte e infraestrutura, atualmente em dese
 ###
 
 📈 Objetivo Profissional
--**🔍 Buscando um papel como:**
--**Cloud Analyst Junior**
--**Cloud support Jr**
--**Onde eu possa aplicar expertise em cloud infrastructure e security, contribuindo para ambientes cloud modernos e seguros.**
+**🔍 Buscando um papel como:**
+
+**Cloud Analyst Junior**
+
+**Cloud support Jr**
+
+**Onde eu possa aplicar expertise em cloud infrastructure e security, contribuindo para ambientes cloud modernos e seguros.**
 
 ---
 
