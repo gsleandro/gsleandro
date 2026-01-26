@@ -33,7 +33,7 @@ Profissional de TI com atuação em suporte e infraestrutura, atualmente em dese
 - **Monitoramento inicial com CloudWatch** Observabilidade avançada com CloudWatch e Datadog para detecção precoce de anomalias.
 - **Uso de Linux em ambientes de nuvem**
 
-  ###  🎓 Metodologias & Frameworks
+  ### 🎓 Metodologias & Frameworks
   
 **AWS Well-Architected Framework - Pilares de excelencia**
 
