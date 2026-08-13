@@ -18,10 +18,11 @@ Profissional de TI com atuação em suporte e infraestrutura, atualmente em dese
 
 ### 🏆 Certificados em destaque 
 
+- ✅ **AWS Certified Cloud Practitioner** (Agosto 2026)
 - ✅ **Cloud Fundamentals, Administration and Solution Architect FIAP** (Jan 2026)
 - ✅ **AWS-Aprenda e Domine a nuvemAmazon UDEMY** (Jan 2026)
 - ✅ **Introduction to Cybersecurity CISCO**
-- ✅ **AWS Certified Cloud Practitioner **
+
 
 ---
 
