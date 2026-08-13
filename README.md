@@ -21,7 +21,7 @@ Profissional de TI com atuação em suporte e infraestrutura, atualmente em dese
 - ✅ **Cloud Fundamentals, Administration and Solution Architect FIAP** (Jan 2026)
 - ✅ **AWS-Aprenda e Domine a nuvemAmazon UDEMY** (Jan 2026)
 - ✅ **Introduction to Cybersecurity CISCO**
-- 🛡️ *Em progresso: AWS Certified Cloud Practitioner *
+- ✅ **AWS Certified Cloud Practitioner **
 
 ---
 
