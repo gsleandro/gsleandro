@@ -1,87 +1,54 @@
-# Olá, sou Carleandro Gomes  👋
+# Carleandro Gomes
 
-### Cloud Computing & It Support 
+**AWS Certified Cloud Practitioner | Analista de TI | Cloud & Infraestrutura**
 
-Profissional de TI com atuação em suporte e infraestrutura, atualmente em desenvolvimento técnico em Cloud Computing com foco em AWS. Estudo e aplico na prática serviços como EC2, IAM, S3 e CloudWatch, com interesse em ambientes de infraestrutura e operações.
+Profissional de TI com experiência em suporte, infraestrutura e operações. Atuo com atendimento técnico, administração de endpoints e troubleshooting em ambientes corporativos, enquanto desenvolvo projetos práticos de cloud computing com AWS e Google Cloud.
 
----
+Meu objetivo é evoluir para posições de **Cloud Support, NOC e Cloud Infrastructure**, unindo experiência operacional, redes, Linux, observabilidade e boas práticas de segurança.
 
-### 🛠️ Stack Tecnológico
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/)
+![São Paulo](https://img.shields.io/badge/São%20Paulo-Brasil-009C3B?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Objetivo-Cloud%20%7C%20NOC%20%7C%20Infra-2563EB?style=flat-square)
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![OCI](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
-| **Security & Ops** | ![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge) ![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white) |
-| **Infra as Code** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
+## Projetos em destaque
 
----
+| Projeto | O que foi implementado | Tecnologias |
+|---|---|---|
+| [GCP Cloud Infrastructure Lab](https://github.com/gsleandro/gcp-cloud-infrastructure-lab) | Ambiente completo com rede, VM Linux, Nginx, identidade de workload, backup, monitoramento, alertas e documentação de troubleshooting | GCP, Compute Engine, VPC, IAM, Cloud Storage, Monitoring, Logging |
+| [AWS Private Cloud](https://github.com/gsleandro/aws-private-cloud) | Arquitetura segmentada com subnets pública e privada, NAT Gateway, Bastion Host e acesso seguro à instância privada | AWS, VPC, EC2, NAT Gateway, Security Groups, Linux |
+| [AWS EC2 Cloud Support Lab](https://github.com/gsleandro/aws-ec2-cloud-support-lab) | Provisionamento de EC2, administração Linux, Nginx, monitoramento e snapshot | AWS, EC2, CloudWatch, EBS, Linux |
 
-### 🏆 Certificados em destaque 
+## Conhecimentos técnicos
 
-- ✅ **AWS Certified Cloud Practitioner** (Agosto 2026)
-- ✅ **Cloud Fundamentals, Administration and Solution Architect FIAP** (Jan 2026)
-- ✅ **AWS-Aprenda e Domine a nuvemAmazon UDEMY** (Jan 2026)
-- ✅ **Introduction to Cybersecurity CISCO**
+| Área | Tecnologias e práticas |
+|---|---|
+| **Cloud** | AWS: EC2, VPC, IAM, S3, EBS, CloudWatch, SNS e RDS; Google Cloud: Compute Engine, VPC, IAM, Cloud Storage, Monitoring e Logging |
+| **Infraestrutura** | Windows, macOS, Linux, redes, troubleshooting, inventário e suporte a endpoints |
+| **Operações** | Zabbix, Grafana, Jira, Intune, monitoramento, gestão de incidentes e documentação técnica |
+| **Segurança** | IAM, MFA, princípio do menor privilégio, Security Groups, segmentação de rede e backup |
+| **Em desenvolvimento** | Terraform, containers, automação e arquitetura de alta disponibilidade |
 
+## Certificações e formação
 
----
+- **AWS Certified Cloud Practitioner**
+- **Técnico em Desenvolvimento de Sistemas** — ETEC Albert Einstein
+- **Gestão de Tecnologia da Informação** — graduação em andamento
+- **Introduction to Cybersecurity** — Cisco Networking Academy
+- **ITIL 4** — formação concluída
 
-### 🚀 O que eu entrego (Hands-on)
+## Experiência prática
 
-- **Provisionamento e gerenciamento básico de EC2 (AWS)** 
-- **Armazenamento e backup com S3**
-- **Monitoramento inicial com CloudWatch** Observabilidade avançada com CloudWatch e Datadog para detecção precoce de anomalias.
-- **Uso de Linux em ambientes de nuvem**
+- Suporte remoto e presencial em ambientes corporativos
+- Onboarding e offboarding de usuários
+- Administração e preparação de equipamentos Windows e macOS
+- Atualizações, compliance e inventário com Microsoft Intune
+- Monitoramento com Zabbix e Grafana
+- Operação de chamados e documentação de procedimentos
+- Laboratórios cloud documentados com arquitetura, evidências e troubleshooting
 
-  ### 🎓 Metodologias & Frameworks
-  
-**AWS Well-Architected Framework - Pilares de excelencia**
+## Contato
 
-**ITIL - Gerenciamento de serviços de TI**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carleandro%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carleandro-gomes-a00891203/)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carleandroalvesjesus@gmail.com)
 
-**Agile/Scrum - Metodologias ageis**
-
----
-
-###
-⚡ Disponibilidade
-**Imediato para oportunidades**
-
----
-
-###
-
-📈 Objetivo Profissional
-
-**🔍 Buscando um papel como:**
-
-**Cloud Analyst Junior**
-
-**Cloud support Jr**
-
-**Onde eu possa aplicar expertise em cloud infrastructure e security, contribuindo para ambientes cloud modernos e seguros.**
-
----
-
-
-### 🤝 Vamos nos conectar?
-
-**Estou sempre aberto para:**
-
-**💬 Discutir Soluções em  cloud**
-
-**🔒 Compartilhar insights de seguranca**
-
-**🚀 Explorar oportunidades de carreira**
-
-**📚 Aprender e crescer com a comunidade**
-
-**Entre em contato:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carleandro-gomes-a00891203/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carleandroalvesjesus@gmail.com)
-
-📍 Localizado em: **São Paulo, SP** (Disponível para Remoto / Híbrido SP)
-
-
-
+São Paulo, SP — disponível para oportunidades remotas e híbridas.
