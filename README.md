@@ -6,7 +6,7 @@ Profissional de TI com experiência em suporte, infraestrutura e operações. At
 
 Meu objetivo é evoluir para posições de **Cloud Support, NOC e Cloud Infrastructure**, unindo experiência operacional, redes, Linux, observabilidade e boas práticas de segurança.
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![São Paulo](https://img.shields.io/badge/São%20Paulo-Brasil-009C3B?style=flat-square)
 ![Open to Work](https://img.shields.io/badge/Objetivo-Cloud%20%7C%20NOC%20%7C%20Infra-2563EB?style=flat-square)
 
